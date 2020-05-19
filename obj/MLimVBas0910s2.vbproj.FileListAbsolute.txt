@@ -1,0 +1,30 @@
+D:\New ST0110 VBas\assignment\0910Sem2\MLimVBas0910s2\obj\Debug\ResolveAssemblyReference.cache
+D:\New ST0110 VBas\assignment\0910Sem2\MLimVBas0910s2\obj\Debug\MLimVBas0910s2.Form3.resources
+D:\New ST0110 VBas\assignment\0910Sem2\MLimVBas0910s2\obj\Debug\MLimVBas0910s2.Resources.resources
+D:\New ST0110 VBas\assignment\0910Sem2\MLimVBas0910s2\obj\Debug\MLimVBas0910s2.vbproj.GenerateResource.Cache
+D:\New ST0110 VBas\assignment\0910Sem2\MLimVBas0910s2\bin\Debug\MLimVBas0910s2.exe
+D:\New ST0110 VBas\assignment\0910Sem2\MLimVBas0910s2\bin\Debug\MLimVBas0910s2.pdb
+D:\New ST0110 VBas\assignment\0910Sem2\MLimVBas0910s2\bin\Debug\MLimVBas0910s2.xml
+D:\New ST0110 VBas\assignment\0910Sem2\MLimVBas0910s2\obj\Debug\MLimVBas0910s2.exe
+D:\New ST0110 VBas\assignment\0910Sem2\MLimVBas0910s2\obj\Debug\MLimVBas0910s2.xml
+D:\New ST0110 VBas\assignment\0910Sem2\MLimVBas0910s2\obj\Debug\MLimVBas0910s2.pdb
+D:\temp\MLimVBas0910s2\bin\Debug\MLimVBas0910s2.exe
+D:\temp\MLimVBas0910s2\bin\Debug\MLimVBas0910s2.pdb
+D:\temp\MLimVBas0910s2\bin\Debug\MLimVBas0910s2.xml
+D:\temp\MLimVBas0910s2\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\MLimVBas0910s2\obj\Debug\MLimVBas0910s2.Form3.resources
+D:\temp\MLimVBas0910s2\obj\Debug\MLimVBas0910s2.Resources.resources
+D:\temp\MLimVBas0910s2\obj\Debug\MLimVBas0910s2.vbproj.GenerateResource.Cache
+D:\temp\MLimVBas0910s2\obj\Debug\MLimVBas0910s2.exe
+D:\temp\MLimVBas0910s2\obj\Debug\MLimVBas0910s2.xml
+D:\temp\MLimVBas0910s2\obj\Debug\MLimVBas0910s2.pdb
+D:\New ST0110 VBas\assignment\0910Sem2\0910s2_Assignment_StartUpCode\MLimVBas0910s2\bin\Debug\MLimVBas0910s2.exe
+D:\New ST0110 VBas\assignment\0910Sem2\0910s2_Assignment_StartUpCode\MLimVBas0910s2\bin\Debug\MLimVBas0910s2.pdb
+D:\New ST0110 VBas\assignment\0910Sem2\0910s2_Assignment_StartUpCode\MLimVBas0910s2\bin\Debug\MLimVBas0910s2.xml
+D:\New ST0110 VBas\assignment\0910Sem2\0910s2_Assignment_StartUpCode\MLimVBas0910s2\obj\Debug\ResolveAssemblyReference.cache
+D:\New ST0110 VBas\assignment\0910Sem2\0910s2_Assignment_StartUpCode\MLimVBas0910s2\obj\Debug\MLimVBas0910s2.frmSynonym.resources
+D:\New ST0110 VBas\assignment\0910Sem2\0910s2_Assignment_StartUpCode\MLimVBas0910s2\obj\Debug\MLimVBas0910s2.Resources.resources
+D:\New ST0110 VBas\assignment\0910Sem2\0910s2_Assignment_StartUpCode\MLimVBas0910s2\obj\Debug\MLimVBas0910s2.vbproj.GenerateResource.Cache
+D:\New ST0110 VBas\assignment\0910Sem2\0910s2_Assignment_StartUpCode\MLimVBas0910s2\obj\Debug\MLimVBas0910s2.exe
+D:\New ST0110 VBas\assignment\0910Sem2\0910s2_Assignment_StartUpCode\MLimVBas0910s2\obj\Debug\MLimVBas0910s2.xml
+D:\New ST0110 VBas\assignment\0910Sem2\0910s2_Assignment_StartUpCode\MLimVBas0910s2\obj\Debug\MLimVBas0910s2.pdb
