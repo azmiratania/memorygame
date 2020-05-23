@@ -1,11 +1,3 @@
-'*********************************
-'  Azmira Tania          (0839408) 
-'  Nur Shahirah Roslan   (0955829)
-'  VISUAL BASIC PROGRAMMING  
-'  ASSIGNMENT (2009/2010 S2)
-'  Class:DIT/FT/1B01 
-'*********************************
-
 Imports System.IO
 
 Public Class frmSynonym
@@ -23,7 +15,7 @@ Public Class frmSynonym
     Dim totscore As Byte = ((dimention + 1) * (dimention + 1)) / 2 'in other words 18 for this game
     Dim playerName As String
     Dim myDbPlayer As New dbPlayers '--> ADVANCE FEATURE --> IMPORTANT : NEEDED TO UPDATE DASEBASE INFORMATION !
-    Dim gameTime As Integer ' ---> ADAVANCE FEATURE ---> • time limit.( 10 minutes)
+    Dim gameTime As Integer ' ---> ADAVANCE FEATURE ---> â€¢ time limit.( 10 minutes)
     Dim gameMode As Integer  ' ADVANCE FEATURE ---> Maximum number of attempts allowed within time limit.
     Dim chooseLevel As Integer ' user input --> allow user to choose they level they wish to play
     Dim modeInput As String 'user's input for choose level
