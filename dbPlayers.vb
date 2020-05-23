@@ -1,12 +1,3 @@
-﻿'*********************************
-'  Azmira Tania          (0839408) 
-'  Nur Shahirah Roslan   (0955829)
-'  VISUAL BASIC PROGRAMMING  
-'  ASSIGNMENT (2009/2010 S2)
-'  Class:DIT/FT/1B01 
-'*********************************
-
-
 Imports System.Data.SqlClient
 
 Public Class dbPlayers
